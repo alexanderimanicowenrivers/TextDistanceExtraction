@@ -5,4 +5,4 @@ A python tool for extracting distance measurements from text and normalising the
 
 2) Run setup script to download spacey textual model `sh setup.sh`, and also checks types. 
 
-3) Run `jupyter notebook` and look in `distance extraction demo.ipynb` to see an example of using the distance extraction toolkit. 
+3) Run `jupyter notebook` and look in [distance extraction demo.ipynb](https://github.com/alexanderimanicowenrivers/TextDistanceExtraction/blob/master/distance%20extraction%20demo.ipynb) to see an example of using the distance extraction toolkit. 
